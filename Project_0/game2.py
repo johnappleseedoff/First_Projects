@@ -20,7 +20,7 @@ def random_predict(number: int = 1) -> int:
     
     while True:
         count += 1 
-        mid_number = int((int(max_number) + int(min_number))/2) # среднее между минимальным и максимальным значением
+        mid_number = int((int(max_number) + int(min_number))/2) # среднее между нижней и верхней границей
         predict_number = np.random.randint(min_number, max_number) # предполагаемое число
         
         if predict_number > number:
