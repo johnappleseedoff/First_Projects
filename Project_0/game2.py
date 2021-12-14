@@ -14,7 +14,7 @@ def random_predict(number: int = 1) -> int:
     Returns:
         int: Число попыток
     """
-    count = 0  
+    count = 0 # счетчик попыток
     max_number = 101 # верхняя граница поиска числа
     min_number = 1 # нижняя граница поиска числа
     
