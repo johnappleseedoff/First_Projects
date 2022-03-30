@@ -9,7 +9,7 @@
 ### Описание проекта    
 Анализ вакансий из HeadHunter
 
-[Cсылка на Jupyter-notebook на GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
+[Cсылка на Jupyter notebook на GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
 [Ссылка на Jupyter notebook на NBviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/Project%201.ipynb)\
 [Cсылка на датасет к этому проекту](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
 
@@ -62,7 +62,7 @@
 
 
 ### Выводы:  
-[Cсылка на Jupyter-notebook на GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
+[Cсылка на Jupyter notebook на GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
 [Ссылка на Jupyter notebook на NBviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/Project%201.ipynb)\
 [Cсылка на датасет к этому проекту](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
 
