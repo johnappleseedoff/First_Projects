@@ -57,14 +57,8 @@
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
-### Результаты:  
-....
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
 ### Выводы:  
-....
+[Cсылка на Jupyter-блокнот](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
