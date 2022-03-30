@@ -9,6 +9,7 @@
 ### Описание проекта    
 Анализ вакансий из HeadHunter
 
+[Ссылка на Jupyter notebook из этого проекта на nbviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/Project%201.ipynb)
 :arrow_up:[к оглавлению](_)
 
 
