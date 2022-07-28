@@ -1,12 +1,12 @@
 ## Contents 
-[1. Project description](.README.md#Project_description:)  
+[1. Project description](.README.md#Project description:)  
 [2. Case to solve](.README.md#Case to solve)  
 [3. Data information](.README.md#Data information)  
 [4. Work steps](.README.md#Work steps)   
 [5. Results](.README.md#Results)    
 [6. Conclusions](.README.md#Conclusions) 
 
-### Project_description:    
+### Project description:
 Анализ вакансий из HeadHunter
 
 [Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
@@ -15,7 +15,7 @@
 :arrow_up:[Contents](_)
 
 
-### Case to solve:   
+### Case to solve:
 Часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме. Это является помехой для рекомендательной системы HeadHunter, которая подбирает соискателям список наиболее подходящих вакансий, а работодателям — список наиболее подходящих специалистов. Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Необходимо преобразовать, исследовать и очистить данные в датасете для построения модели.
 
 **Условия соревнования:**  
@@ -62,12 +62,12 @@ hotel_train.csv, hotel_test.csv, submission.csv files from Kaggle.
 
 :arrow_up:[Contents](.README.md#Contents)
 
-### Results
+### Results:
 
 :arrow_up:[Contents](.README.md#Contents)
 
 
-### Conclusions:  
+### Conclusions:
 [Cсылка на Jupyter notebook на GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
 [Ссылка на Jupyter notebook на NBviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/NBviewer%20proj1.ipynb)\
 [Cсылка на датасет к этому проекту](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
