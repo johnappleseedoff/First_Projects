@@ -1,22 +1,21 @@
-## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+## Contents 
+[1. Project description](.README.md#Project description )  
+[2. Case to solve](.README.md#Case to solve)  
+[3. Data information](.README.md#Data information)  
+[4. Work steps](.README.md#Work steps)  
+[5. Results](.README.md#Results)    
+[6. Conclusions](.README.md#Conclusions) 
 
-### Описание проекта    
+### Project description    
 Анализ вакансий из HeadHunter
 
-[Cсылка на Jupyter notebook на GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
-[Ссылка на Jupyter notebook на NBviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/NBviewer%20proj1.ipynb)\
-[Cсылка на датасет к этому проекту](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
+[Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
+[Datasets](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[Contents](_)
 
 
-### Какой кейс решаем?    
+### Case to solve   
 Часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме. Это является помехой для рекомендательной системы HeadHunter, которая подбирает соискателям список наиболее подходящих вакансий, а работодателям — список наиболее подходящих специалистов. Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Необходимо преобразовать, исследовать и очистить данные в датасете для построения модели.
 
 **Условия соревнования:**  
@@ -45,28 +44,35 @@
 **Что практикуем**     
 Учимся применять навыки обработки, очистки и визуализации данных на основе пройденного ранее материала.
 
+:arrow_up:[Contents](.README.md#Contents)
 
-### Краткая информация о данных
-База резюме, выгруженная с сайта поиска вакансий hh.ru.
+###  Data information
+hotel_train.csv, hotel_test.csv, submission.csv files from Kaggle.
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[Contents](.README.md#Contents)
 
 
-### Этапы работы над проектом  
-1. Базовый анализ структуры данных
-2. Преобразование данных
-3. Разведывательный анализ
-4. Очистка данных
+### Work steps 
+1. First data analysis
+2. Missed data filling
+3. Feature creating
+4. Feature selecting
+5. Feature cleaning
+6. Model training
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[Contents](.README.md#Contents)
+
+### Results
+
+:arrow_up:[Contents](.README.md#Contents)
 
 
-### Выводы:  
+### Conclusions:  
 [Cсылка на Jupyter notebook на GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
 [Ссылка на Jupyter notebook на NBviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/NBviewer%20proj1.ipynb)\
 [Cсылка на датасет к этому проекту](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[Contents](.README.md#Contents)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
