@@ -1,12 +1,12 @@
 ## Contents 
-[1. Project description](.README.md#Project description:)  
+[1. Project description](.README.md#Project-description)  
 [2. Case to solve](.README.md#Case to solve)  
 [3. Data information](.README.md#Data information)  
 [4. Work steps](.README.md#Work steps)   
-[5. Results](.README.md#Results)    
+[5. Results](.README.md###Results)    
 [6. Conclusions](.README.md#Conclusions) 
 
-### Project description:
+### Project description
 Анализ вакансий из HeadHunter
 
 [Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
