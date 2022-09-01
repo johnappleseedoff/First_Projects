@@ -14,7 +14,7 @@
 
 ## Project description
 
-Continue education in SkillFactory platform.
+Continue education on SkillFactory platform.
 
 [Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
 [Datasets](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
