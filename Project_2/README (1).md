@@ -6,7 +6,7 @@
 [1. Project description](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Project_description)  
 [2. Case to solve](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Case_to_solve) 
 [3. Conditions of the competition and criteria for assessment](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Conditions_of_the_competition_and_criteria_for_assessment)
-[4. Skills to practice in](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Skills_to_practice_in
+[4. Skills to practice in](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Skills_to_practice_in)
 [5. Data information](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Data_information)  
 [6. Work steps](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Work_steps)   
 [7. Results](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Results)    
