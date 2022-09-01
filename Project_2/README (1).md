@@ -18,7 +18,7 @@ Continue education in SkillFactory platform.
 [Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
 [Datasets](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
 
-:arrow_up:[Contents](_)
+:arrow_up:[Contents](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Contents)
 
 ## Case to solve
 
