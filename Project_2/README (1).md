@@ -9,8 +9,7 @@
 [4. Skills to practice in](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Skills_to_practice_in) 
 [5. Data information](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Data_information)  
 [6. Work steps](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Work_steps)   
-[7. Results](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Results)    
-[8. Conclusions](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Conclusions) 
+[7. Results](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Results)     
 
 ## Project description
 
