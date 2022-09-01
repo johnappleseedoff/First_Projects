@@ -2,7 +2,19 @@
 #  Project 2
 #  Booking reviews competition on Kaggle
 
+## Contents 
+[1. Project description](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README(1).md#Project description)  
+[2. Case to solve](.README.md#Case to solve)  
+[3. Data information](.README.md#Data information)  
+[4. Work steps](.README.md#Work steps)   
+[5. Results](.README.md#Results)    
+[6. Conclusions](.README.md#Conclusions)
+
+## Project description
+
 Continue education in SkillFactory platform. Project 2 is for consolidation of knowledge in Exploratory Data Analysis(EDA)
+
+
 ## Case to solve
 
 Imagine, that you work as datascientist in Booking Company. 
