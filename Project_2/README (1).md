@@ -3,7 +3,7 @@
 #  Booking reviews competition on Kaggle
 
 ## Contents 
-[1. Project description](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README(1).md#Project description)  
+[1. Project description](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README(1).md#Project_description)  
 [2. Case to solve](.README.md#Case to solve)  
 [3. Data information](.README.md#Data information)  
 [4. Work steps](.README.md#Work steps)   
