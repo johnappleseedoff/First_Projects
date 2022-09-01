@@ -3,12 +3,12 @@
 #  Booking reviews competition on Kaggle
 
 ## Contents 
-[1. Project description](README%20(1).md#Project_description)  
-[2. Case to solve](README%20(1).md#Case_to_solve)  
-[3. Conditions of the competition and criteria for assessment](README%20(1).md#Conditions_of_the_competition_and_criteria_for_assessment)    
-[4. Skills to practice in](README%20(1).md#Skills_to_practice_in)      
-[5. Data information](README%20(1).md#Data_information)     
-[6. Work steps](README%20(1).md#Work_steps)   
+[1. Project description](README%20(1).md#Project-description)  
+[2. Case to solve](README%20(1).md#Case-to-solve)  
+[3. Conditions of the competition and criteria for assessment](README%20(1).md#Conditions-of-the-competition-and-criteria-for-assessment)    
+[4. Skills to practice in](README%20(1).md#Skills-to-practice-in)      
+[5. Data information](README%20(1).md#Data-information)     
+[6. Work steps](README%20(1).md#Work-steps)   
 [7. Results](README%20(1).md#Results)     
 
 
