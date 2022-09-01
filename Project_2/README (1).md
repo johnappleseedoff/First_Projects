@@ -6,7 +6,7 @@
 [1. Project description](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Project_description)  
 [2. Case to solve](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Case_to_solve)  
 [3. Data information](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Data_information)  
-[4. Work steps](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Work_steps)   
+[4. Work steps](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Work steps)   
 [5. Results](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Results)    
 [6. Conclusions](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/README%20(1).md#Conclusions)
 
