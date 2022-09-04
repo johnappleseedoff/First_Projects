@@ -16,6 +16,7 @@
 
 Continue education on SkillFactory platform.
 
+[Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)
 [Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
 [Datasets](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
 
@@ -67,10 +68,13 @@ Data consists of 2 parts:
     * hotel_train.csv 
     * hotel_test.csv
     * submission.csv
+ 
+[Link to initial data](https://www.kaggle.com/competitions/sf-booking/data)
+
 2. Additional data loaded by me:
     * continents.csv
     * centres.csv
-   
+[Link to additional data]()
 :arrow_up:[Contents](README%20(1).md#Contents)
 
 
@@ -89,6 +93,6 @@ Data consists of 2 parts:
 ## Results
 
 MAPE score: 
-Link to LeaderBoard
+[Link to LeaderBoard](https://www.kaggle.com/competitions/sf-booking/leaderboard)
 
 :arrow_up:[Contents](README%20(1).md#Contents)
