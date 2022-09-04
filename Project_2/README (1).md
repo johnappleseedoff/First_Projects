@@ -93,7 +93,8 @@ Data consists of 2 parts:
 
 ## Results
 
-MAPE score: 
-[Link to LeaderBoard](https://www.kaggle.com/competitions/sf-booking/leaderboard)
+MAPE score:     
+
+[Link to LeaderBoard](https://www.kaggle.com/competitions/sf-booking/leaderboard)        
 
 :arrow_up:[Contents](README%20(1).md#Contents)
