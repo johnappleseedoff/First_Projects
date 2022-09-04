@@ -16,7 +16,7 @@
 
 Continue education on SkillFactory platform.
 
-[Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)
+[Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)     
 [Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
 [Datasets](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
 
