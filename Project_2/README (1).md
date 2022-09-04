@@ -72,8 +72,10 @@ Data consists of 2 parts:
 
 2. Additional data loaded by me:
     * continents.csv
-    * centres.csv
-[Link to additional data]()
+    * centres.csv      
+
+[Link to additional data]()       
+
 :arrow_up:[Contents](README%20(1).md#Contents)
 
 
