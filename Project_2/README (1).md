@@ -18,7 +18,6 @@ Continue education on SkillFactory platform.
 
 [Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)     
 [Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
-[Datasets](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
 
 :arrow_up:[Contents](README%20(1).md#Contents)
 
@@ -28,7 +27,7 @@ Continue education on SkillFactory platform.
 Imagine, that you work as datascientist in Booking Company. 
 The issue is that dishonest hotels boost their scores.
 One of the methods to find such hotels is to construct a model, which would predict a score of hotel.
-If predicted scores would much differ from scores on platform, it would probably mean that score has been boosted and it must be checked.
+If predicted scores would much differ from scores on platform, it would probably mean that the score has been boosted and it must be checked.
 
 :arrow_up:[Contents](README%20(1).md#Contents)
 
