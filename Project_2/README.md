@@ -74,6 +74,8 @@ Data consists of 2 parts:
     * [continents.csv](https://drive.google.com/file/d/1EQraEaUzDlWCtxo3Lbb5bxvVjtkXYhVl/view?usp=sharing)        
     * [centres.csv](https://drive.google.com/file/d/1l0GlEyPxuNaweaAMz1x849ReXYrtRzK4/view?usp=sharing)           
 
+[Link to additional data](https://drive.google.com/drive/folders/1AQR01TI1AFGeTmEQJGrouqJ9XuU0j8C2?usp=sharing)
+
 :arrow_up:[Contents](README.md#Contents)
 
 
