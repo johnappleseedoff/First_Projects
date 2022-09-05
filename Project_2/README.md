@@ -15,8 +15,9 @@
 
 Continue education on SkillFactory platform.
 
-[Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)     
-[Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
+[Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
+[Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)<br>
+[Jupyter notebook on NBviewer](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)<br>             
 
 :arrow_up:[Contents](README.md#Contents)
 
@@ -70,7 +71,7 @@ Data consists of 2 parts:
 [Link to initial data](https://www.kaggle.com/competitions/sf-booking/data)
 
 2. Additional data that I used:
-    * [continents.csv](https://drive.google.com/file/d/1EQraEaUzDlWCtxo3Lbb5bxvVjtkXYhVl/view?usp=sharing)
+    * [continents.csv](https://drive.google.com/file/d/1EQraEaUzDlWCtxo3Lbb5bxvVjtkXYhVl/view?usp=sharing)        
     * [centres.csv](https://drive.google.com/file/d/1l0GlEyPxuNaweaAMz1x849ReXYrtRzK4/view?usp=sharing)           
 
 :arrow_up:[Contents](README.md#Contents)
@@ -92,5 +93,5 @@ Data consists of 2 parts:
 
 MAPE score:  12.02339
 
-[Link to submission file](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/submission.csv)
+[Link to submission file](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/submission.csv)           
 [Link to LeaderBoard](https://www.kaggle.com/competitions/sf-booking/leaderboard)        
