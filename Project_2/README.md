@@ -10,7 +10,6 @@
 [5. Data information](README.md#Data-information)     
 [6. Work steps](README.md#Work-steps)   
 [7. Results](README.md#Results)  
-[8. Conclusions](README.md#Conclusions)   
 
 
 ## Project description
@@ -100,7 +99,6 @@ MAPE score:  12.01936
 [Link to submission file](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/submission.csv)           
 [Link to LeaderBoard](https://www.kaggle.com/competitions/sf-booking/leaderboard)        
 
-## Conclusions
 
 [Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
 [Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition(GitHub).ipynb)<br>
