@@ -2,13 +2,13 @@
 #  Booking reviews competition on Kaggle
 
 ## Contents 
-[1. Project description](README%20(1).md#Project-description)  
-[2. Case to solve](README%20(1).md#Case-to-solve)  
-[3. Conditions of the competition and criteria for assessment](README%20(1).md#Conditions-of-the-competition-and-criteria-for-assessment)    
-[4. Skills to practice in](README%20(1).md#Skills-to-practice-in)      
-[5. Data information](README%20(1).md#Data-information)     
-[6. Work steps](README%20(1).md#Work-steps)   
-[7. Results](README%20(1).md#Results)     
+[1. Project description](README.md#Project-description)  
+[2. Case to solve](README.md#Case-to-solve)  
+[3. Conditions of the competition and criteria for assessment](README.md#Conditions-of-the-competition-and-criteria-for-assessment)    
+[4. Skills to practice in](README.md#Skills-to-practice-in)      
+[5. Data information](README.md#Data-information)     
+[6. Work steps](README.md#Work-steps)   
+[7. Results](README.md#Results)     
 
 
 ## Project description
@@ -18,7 +18,7 @@ Continue education on SkillFactory platform.
 [Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)     
 [Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
 
-:arrow_up:[Contents](README%20(1).md#Contents)
+:arrow_up:[Contents](README.md#Contents)
 
 
 ## Case to solve
@@ -28,7 +28,7 @@ The issue is that dishonest hotels boost their scores.
 One of the methods to find such hotels is to construct a model, which would predict a score of hotel.
 If predicted scores would much differ from scores on platform, it would probably mean that the score has been boosted and it must be checked.
 
-:arrow_up:[Contents](README%20(1).md#Contents)
+:arrow_up:[Contents](README.md#Contents)
 
 
 ##  Conditions of the competition and criteria for assessment
@@ -49,14 +49,14 @@ If predicted scores would much differ from scores on platform, it would probably
 
 Metric for assessment of the implementation: **MAPE(Mean Absolute Precentage of Error)**
 
-:arrow_up:[Contents](README%20(1).md#Contents)
+:arrow_up:[Contents](README.md#Contents)
 
 
 ## Skills to practice in
 
 Consolidation of knowledge in Exploratory Data Analysis(EDA)
 
-:arrow_up:[Contents](README%20(1).md#Contents)
+:arrow_up:[Contents](README.md#Contents)
 
 
 ## Data information
@@ -75,7 +75,7 @@ Data consists of 2 parts:
 
 [Link to additional data]()       
 
-:arrow_up:[Contents](README%20(1).md#Contents)
+:arrow_up:[Contents](README.md#Contents)
 
 
 ## Work steps
@@ -87,7 +87,7 @@ Data consists of 2 parts:
 5. Feature cleaning
 6. Model training
 
-:arrow_up:[Contents](README%20(1).md#Contents)
+:arrow_up:[Contents](README.md#Contents)
 
 
 ## Results
