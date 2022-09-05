@@ -9,7 +9,8 @@
 [4. Skills to practice in](README.md#Skills-to-practice-in)      
 [5. Data information](README.md#Data-information)     
 [6. Work steps](README.md#Work-steps)   
-[7. Results](README.md#Results)     
+[7. Results](README.md#Results)  
+[8. Conclusions](README.md#Conclusions)   
 
 
 ## Project description
@@ -17,8 +18,8 @@
 Continue education on SkillFactory platform.
 
 [Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
-[Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)<br>
-[Jupyter notebook on NBviewer](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)<br>             
+[Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition(GitHub).ipynb)<br>
+[Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition%28NBviewer%29.ipynb)<br>             
 
 :arrow_up:[Contents](README.md#Contents)
 
@@ -94,7 +95,16 @@ Data consists of 2 parts:
 
 ## Results
 
-MAPE score:  12.02339
+MAPE score:  12.01936
 
 [Link to submission file](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/submission.csv)           
 [Link to LeaderBoard](https://www.kaggle.com/competitions/sf-booking/leaderboard)        
+
+## Conclusions
+
+[Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
+[Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition(GitHub).ipynb)<br>
+[Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition%28NBviewer%29.ipynb)<br>     
+
+
+:arrow_up:[Contents](README.md#Contents)
