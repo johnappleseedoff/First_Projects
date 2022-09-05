@@ -145,3 +145,12 @@ Project_2/Data/long_lang.csv
 Project_2/Data/submission.csv
 Project_2/Data/unique_hotels.csv
 Project_2/Data/data_lemm.csv
+Project_22/.idea/modules.xml
+.gitignore
+Project_22/Data/centres.csv
+Project_22/Data/hotels_test.csv
+Project_22/Data/hotels_train.csv
+.gitignore
+Project_22/Data/continents.csv
+Project_22/Data/long_lang.csv
+Project_22/.idea/Project_2.iml
