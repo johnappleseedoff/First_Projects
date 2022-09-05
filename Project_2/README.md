@@ -1,3 +1,4 @@
+![Booking!](/home/ri/Git/SFDS_hometasks/Project_2/Data/slide2.jpg "San Juan Mountains")
 #  Project 2
 #  Booking reviews competition on Kaggle
 
