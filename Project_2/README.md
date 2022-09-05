@@ -17,7 +17,6 @@
 Continue education on SkillFactory platform.
 
 [Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
-[Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition(GitHub).ipynb)<br>
 [Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition%28NBviewer%29.ipynb)<br>             
 
 :arrow_up:[Contents](README.md#Contents)
@@ -101,7 +100,6 @@ MAPE score:  12.01936
 
 
 [Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
-[Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition(GitHub).ipynb)<br>
 [Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition%28NBviewer%29.ipynb)<br>     
 
 
