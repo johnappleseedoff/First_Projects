@@ -69,11 +69,13 @@ Data consists of 2 parts:
     * hotel_test.csv
     * submission.csv
  
-[Link to initial data](https://www.kaggle.com/competitions/sf-booking/data)
+[Link to download initial data](https://www.kaggle.com/competitions/sf-booking/data)
 
 2. Additional data that I used:
     * [continents.csv](Data/continents.csv)       
-    * [centres.csv](Data/centres.csv)
+    * [centres.csv](Data/centres.csv)  
+
+[Link to download additional data](https://drive.google.com/drive/folders/1AQR01TI1AFGeTmEQJGrouqJ9XuU0j8C2?usp=sharing)
 
 :arrow_up:[Contents](README.md#Contents)
 
