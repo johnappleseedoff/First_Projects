@@ -70,10 +70,8 @@ Data consists of 2 parts:
 [Link to initial data](https://www.kaggle.com/competitions/sf-booking/data)
 
 2. Additional data loaded by me:
-    * continents.csv
-    * centres.csv      
-
-[Link to additional data]()       
+    * [continents.csv](https://drive.google.com/file/d/1EQraEaUzDlWCtxo3Lbb5bxvVjtkXYhVl/view?usp=sharing)
+    * [centres.csv](https://drive.google.com/file/d/1l0GlEyPxuNaweaAMz1x849ReXYrtRzK4/view?usp=sharing)           
 
 :arrow_up:[Contents](README.md#Contents)
 
@@ -92,6 +90,7 @@ Data consists of 2 parts:
 
 ## Results
 
-MAPE score:     
+MAPE score:  12.02339
 
+[Link to submission file]()
 [Link to LeaderBoard](https://www.kaggle.com/competitions/sf-booking/leaderboard)        
