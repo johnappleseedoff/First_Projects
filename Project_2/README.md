@@ -71,8 +71,8 @@ Data consists of 2 parts:
 [Link to initial data](https://www.kaggle.com/competitions/sf-booking/data)
 
 2. Additional data that I used:
-    * [continents.csv](https://drive.google.com/file/d/1EQraEaUzDlWCtxo3Lbb5bxvVjtkXYhVl/view?usp=sharing)        
-    * [centres.csv](https://drive.google.com/file/d/1l0GlEyPxuNaweaAMz1x849ReXYrtRzK4/view?usp=sharing)           
+    * continents.csv       
+    * centres.csv  
 
 [Link to additional data](https://drive.google.com/drive/folders/1AQR01TI1AFGeTmEQJGrouqJ9XuU0j8C2?usp=sharing)
 
