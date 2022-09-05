@@ -72,10 +72,8 @@ Data consists of 2 parts:
 [Link to initial data](https://www.kaggle.com/competitions/sf-booking/data)
 
 2. Additional data that I used:
-    * continents.csv       
-    * centres.csv  
-
-[Link to additional data](https://drive.google.com/drive/folders/1AQR01TI1AFGeTmEQJGrouqJ9XuU0j8C2?usp=sharing)
+    * [continents.csv](Data/continents.csv)       
+    * [centres.csv](Data/centres.csv)
 
 :arrow_up:[Contents](README.md#Contents)
 
