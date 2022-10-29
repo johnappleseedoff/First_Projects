@@ -57,7 +57,7 @@ Training in feature creating, cleaning and data visualization.
 
 
 ### Data information
-Dataset with resumes downloaded from finding jobs website [hh.ru](https://hh.ru/).
+Dataset with resumes downloaded from finding jobs website [hh.ru](https://hh.ru/).<br>
 [Link to dataset for this project](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
   
 :arrow_up:[Contents](README.md#Contents)
