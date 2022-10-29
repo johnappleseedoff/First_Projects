@@ -104,4 +104,4 @@ MAPE score:  12.01936
 
 :arrow_up:[Contents](README.md#Contents)
 
-If you find the information on this project interesting or useful, I would be very grateful if you would check the repository and profile with st⭐️⭐️⭐️rs!
+If you find the information interesting or useful in this project, I would be very grateful if you would check the repository and profile with st⭐️⭐️⭐️rs!
