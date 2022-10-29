@@ -102,5 +102,6 @@ MAPE score:  12.01936
 [Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
 [Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition%28NBviewer%29.ipynb)<br>     
 
-
 :arrow_up:[Contents](README.md#Contents)
+
+If you find the information on this project interesting or useful, I would be very grateful if you would check the repository and profile with st⭐️⭐️⭐️rs!
