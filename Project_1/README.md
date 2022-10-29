@@ -1,72 +1,78 @@
-## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+#  Project 1
+#  Analysis of vacancies on HeadHunter
 
-### Описание проекта    
-Анализ вакансий из HeadHunter
+## Contetnts  
+[1. Project description](README.md#Project-description) 
+[2. Case to solve](README.md#Case-to-solve)  
+[3. Conditions of the competition and criteria for assessment](README.md#Conditions-of-the-competition-and-criteria-for-assessment)    
+[4. Skills to practice in](README.md#Skills-to-practice-in)      
+[5. Data information](README.md#Data-information)     
+[6. Work steps](README.md#Work-steps)   
+[7. Results](README.md#Results) 
 
-[Cсылка на Jupyter notebook на GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
-[Ссылка на Jupyter notebook на NBviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/NBviewer%20proj1.ipynb)\
+### Project description   
+Continue education on SkillFactory platform.
+
+[Link to Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)<br>
+[Link to Jupyter notebook on NBviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/NBviewer%20proj1.ipynb)<br>
 [Cсылка на датасет к этому проекту](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[Contents](README.md#Contents)
 
 
-### Какой кейс решаем?    
-Часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме. Это является помехой для рекомендательной системы HeadHunter, которая подбирает соискателям список наиболее подходящих вакансий, а работодателям — список наиболее подходящих специалистов. Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Необходимо преобразовать, исследовать и очистить данные в датасете для построения модели.
+### Case to solve    
+Part of applicants do not indicate the desired salary when preparing their resume. This is a problem for the HeadHunter recommendatory system, which selects a list of the most suitable vacancies for applicants, and a list of most suitable professionals for employers. HeadHunter company wants to train a model, which would automatically determine the approximate wage level, suitable for applicant, using the information, which he indicated about himself. It is necessary to transform, analyze and clean data in the dataset for model training.
 
-**Условия соревнования:**  
-- Внимательно изучить детали задачи.
-- Скачать уже знакомый датасет и ноутбук-шаблон.
-- Обязательно ознакомиться с дополнительным теоретическим материалом, который даётся перед заданием.
-- Воспользоваться советами и подсказками от учебной платформы при выполнении проекта.
-- Ответить на все контрольные вопросы: за них можно максимально набрать 30 баллов.
-- Загрузить ноутбук со своим решением на GitHub, оформив его в соответствии с требованиями.
-- Сдать проект на проверку и получить 10 баллов (из них 8 баллов — за основное задание и 2 балла — за дополнительное) за выводы по разведывательному анализу.
-- Получить обратную связь от команды курса.
-- **Для успешного выполнения проекта необходимо набрать 21 балл из 40 возможных.**
+### Conditions of the competition and criteria for assessment 
+**Conditions**
+- Look closely at the details of the task.
+- Download already known dataset and notebook template.
+- Be sure to familiarize with additional theoretical material, which is given before the task.
+- Take advantage of advices and hints from the training platform in the execution of the project.
+- Answer all control questions: you can get a maximum of 30 points.
+- Download your customized as required jupyter notebook with solution on GitHub.
+- Pass the project for verification and receive 10 points (of which 8 points for the main task and 2 points for the additional) for the conclusions on Exploratory Data Analysis.
+- Get feedback from the course team.
+- **For the successful passing of the project it is necessary to score 21 out of 40 possible.**
 
-**Метрика качества**     
-- Решение оформляется только в Jupyter Notebook.
-- Решение оформляется в соответствии с ноутбуком-шаблоном.
-- Каждое задание выполняется в отдельной ячейке, выделенной под задание (в шаблоне они помечены как ваш код здесь). Не следует создавать множество ячеек для решения задачи — это создаёт неудобства при проверке.
-- Код для каждого задания оформляется в одной-двух jupyter-ячейках (не стоит создавать множество ячеек для решения задачи, это усложняет проверку).
-- Решение должно использовать только пройденный материал: переменные, основные структуры данных (списки, словари, множества), циклы, функции, библиотеки numpy, pandas, matplotlib, seaborn, plotly. Если вы думаете, что для решения необходимо воспользоваться сторонними библиотеками или инструментами (например Excel), другими языками программирования или неизученными конструкциями, вы ошибаетесь :) Все задания решаются с помощью уже знакомых методов.
-- Код должен быть читаемым и понятным: имена переменных и функций отражают их сущность, важно избегать многострочных конструкций и условий.
-- Пользуйтесь руководством PEP 8.
-- Графики оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
-- Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей.
-- Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
+**Criteria**     
+- The solution is only available in Jupyter Notebook.
+- Solution is processed according to the jupyter notebook template.
+- Each task must be executed in a separate specially selected cell(in the template they are marked as your code here). You should not create many cells to solve the task, this creates inconvenience when checking.
+- The code for each task is drawn up in one or two jupyter cells (it is not necessary to create many cells to solve the task, this creates inconvenience when checking).
+- You must use only passed materilas for solution: variables, basic data structure (lists, dictionaries, sets), cycles, fuctions, libraries: numpy, pandas, matplotlib, seaborn, plotly. If you think you need to use third-party libraries or tools to solve (for example Excel), other programming languages or unexplored constructions, you are mistaken :) All tasks are solved using already familiar methods.
+- The code must be readable and understandable: Names of variables and functions reflect their essence, it is important to avoid multiline constructions and conditions.
+- Use PEP 8 guidance.
+- Graphics are drawn according to the rules we have given in the data visualization module.
+- Mandatory requirement: graphics should contain a name reflecting their essence and signatures of axes.
+- Conclusions to chats are in Markdown format under the chart in a separate cell (in the template they are marked as your conclusions here). The conclusions should be presented as small linked sentences in Russian.
 
-**Что практикуем**     
-Учимся применять навыки обработки, очистки и визуализации данных на основе пройденного ранее материала.
+:arrow_up:[Contents](README.md#Contents)
+
+### Skills to practice in    
+Training in feature creating, cleaning and data visualization.
 
 
-### Краткая информация о данных
-База резюме, выгруженная с сайта поиска вакансий hh.ru.
+### Data information
+Dataset with resumes downloaded from finding jobs website [hh.ru](https://hh.ru/).
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[Contents](README.md#Contents)
 
 
-### Этапы работы над проектом  
-1. Базовый анализ структуры данных
-2. Преобразование данных
-3. Разведывательный анализ
-4. Очистка данных
+### Work steps 
+1. First dataset analysis
+2. Feature creating
+3. Feature cleaning
+4. Data visualization
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[Contents](README.md#Contents)
 
 
-### Выводы:  
-[Cсылка на Jupyter notebook на GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)\
-[Ссылка на Jupyter notebook на NBviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/NBviewer%20proj1.ipynb)\
-[Cсылка на датасет к этому проекту](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
+### Results:  
+[Link to Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)<br>
+[Link to Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/NBviewer%20proj1.ipynb)<br>
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[Contents](README.md#Contents)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
