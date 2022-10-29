@@ -1,6 +1,7 @@
 #  Project 1
 #  Analysis of vacancies on HeadHunter
 
+
 ## Contents  
 [1. Project description](README.md#Project-description)    
 [2. Case to solve](README.md#Case-to-solve)  
@@ -10,18 +11,19 @@
 [6. Work steps](README.md#Work-steps)   
 [7. Results](README.md#Results) 
 
+
 ### Project description   
 Continue education on SkillFactory platform.
 
 [Link to Jupyter notebook on GitHub](https://github.com/DSminer/SFDS_hometasks/tree/main/Project_1/Project%201.ipynb)<br>
-[Link to Jupyter notebook on NBviewer ](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/NBviewer%20proj1.ipynb)<br>
-[Cсылка на датасет к этому проекту](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
+[Link to Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_1/NBviewer%20proj1.ipynb)<br>
 
 :arrow_up:[Contents](README.md#Contents)
 
 
 ### Case to solve    
 Part of applicants do not indicate the desired salary when preparing their resume. This is a problem for the HeadHunter recommendatory system, which selects a list of the most suitable vacancies for applicants, and a list of most suitable professionals for employers. HeadHunter company wants to train a model, which would automatically determine the approximate wage level, suitable for applicant, using the information, which he indicated about himself. It is necessary to transform, analyze and clean data in the dataset for model training.
+
 
 ### Conditions of the competition and criteria for assessment 
 **Conditions**
@@ -49,12 +51,14 @@ Part of applicants do not indicate the desired salary when preparing their resum
 
 :arrow_up:[Contents](README.md#Contents)
 
+
 ### Skills to practice in    
 Training in feature creating, cleaning and data visualization.
 
 
 ### Data information
 Dataset with resumes downloaded from finding jobs website [hh.ru](https://hh.ru/).
+[Link to dataset for this project](https://drive.google.com/file/d/1xnmDxxRmdL_7vLfHwY61M_E2AjxPdCZd/view?usp=sharing)
   
 :arrow_up:[Contents](README.md#Contents)
 
@@ -75,4 +79,4 @@ Dataset with resumes downloaded from finding jobs website [hh.ru](https://hh.ru/
 :arrow_up:[Contents](README.md#Contents)
 
 
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+If you find the information on this project interesting or useful, I would be very grateful if you would check the repository and profile with st⭐️⭐️⭐️rs!
