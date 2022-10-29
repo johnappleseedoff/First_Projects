@@ -1,8 +1,8 @@
 #  Project 1
 #  Analysis of vacancies on HeadHunter
 
-## Contetnts  
-[1. Project description](README.md#Project-description) 
+## Contents  
+[1. Project description](README.md#Project-description)
 [2. Case to solve](README.md#Case-to-solve)  
 [3. Conditions of the competition and criteria for assessment](README.md#Conditions-of-the-competition-and-criteria-for-assessment)    
 [4. Skills to practice in](README.md#Skills-to-practice-in)      
