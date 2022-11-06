@@ -145,3 +145,4 @@ Project_2/Data/submission.csv
 .gitignore
 Project_2/Data/long_lang.csv
 Project_2/Data/hotels_train.csv
+.vscode/settings.json
