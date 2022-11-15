@@ -1,6 +1,6 @@
 ![Booking!](Data/Bank.jpg "Bank")
 
-#  Booking reviews competition on Kaggle
+#  Classification of bank clients by probability of opening a deposit
 
 ## Contents 
 [1. Project description](README.md#Project-description)  
@@ -14,13 +14,11 @@
 
 ## Project description
 
-Imagine, that you work as datascientist in Booking Company. 
-The issue is that dishonest hotels boost their scores.
-One of the methods to find such hotels is to construct a model, which would predict a score of hotel.
-If predicted scores would much differ from scores on platform, it would probably mean that the score has been boosted and it must be checked.
+Banks store vast amounts of information about their customers. This data can be used to stay in touch with customers and target them individually to products or banking offers that are right for them.<br>
+Usually, selected customers are contacted directly through various communication channels: in person (for example, when visiting a bank), by phone, by e-mail, in instant messengers, and so on. This type of marketing is called direct marketing. In fact, direct marketing is used to interact with customers in most banks and insurance companies. But, of course, running marketing campaigns and interacting with customers is labor intensive and expensive.<br>
+Banks would like to be able to choose among their customers exactly those who are most likely to take advantage of a particular offer, and contact them.
 
-[Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
-[Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/First_Projects/blob/main/Booking_reviews_competition/Booking_reviews_competition%28NBviewer%29.ipynb)<br>             
+[Jupyter notebook on GitHub](https://nbviewer.org/github/DSminer/First_Projects/blob/main/Classification_of_bank_clients/Classification_of_bank_clients.ipynb)<br>             
 
 :arrow_up:[Contents](README.md#Contents)
 
