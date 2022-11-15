@@ -19,7 +19,6 @@ Usually, selected customers are contacted directly through various communication
 Banks would like to be able to choose among their customers exactly those who are most likely to take advantage of a particular offer, and contact them.
 
 [Jupyter notebook on GitHub](https://github.com/DSminer/First_Projects/blob/main/Classification_of_bank_clients/Classification_of_bank_clients.ipynb)<br>             
-
 :arrow_up:[Contents](README.md#Contents)
 
 
@@ -32,14 +31,7 @@ Banks would like to be able to choose among their customers exactly those who ar
 :arrow_up:[Contents](README.md#Contents)
 
 
-##  Conditions of the competition and criteria for assessment
-**Conditions**
-1. This competition is timeless and accessible for all educational streams.
-2. Deadline is set for each educational stream.
-3. Test sample is fully represented in LeaderBoard.
-4. Make real ML product, which could be used on new data further.
-
-**Criteria**
+##  Conditions and criteria for assessment
 1. Quality of code (compliance with PEP-8, comments for code, README for project). 
 2. Shaping the project on one of the platforms: GitHub, GitLab, Kaggle.
 3. Data cleaning.
@@ -47,34 +39,23 @@ Banks would like to be able to choose among their customers exactly those who ar
 5. Feature engeneering.
 6. Feature selecting.
 7. Feature transformation.
-
-Metric for assessment of the implementation: **MAPE(Mean Absolute Precentage of Error)**
+8. Train different classification models
 
 :arrow_up:[Contents](README.md#Contents)
 
 
 ## Skills to practice in
 
-Consolidation of knowledge in Exploratory Data Analysis(EDA)
+Train Classification models
 
 :arrow_up:[Contents](README.md#Contents)
 
 
 ## Data information
 
-Data consists of 2 parts:
-1. Initial data of competition:
-    * hotel_train.csv 
-    * hotel_test.csv
-    * submission.csv
- 
-[Link to download initial data](https://www.kaggle.com/competitions/sf-booking/data)
+[bank_fin.csv](https://github.com/DSminer/First_Projects/blob/main/Classification_of_bank_clients/Data/bank_fin.csv)
 
-2. Additional data that I used:
-    * [continents.csv](Data/continents.csv)       
-    * [centres.csv](Data/centres.csv)  
-
-[Link to download additional data](https://drive.google.com/drive/folders/1AQR01TI1AFGeTmEQJGrouqJ9XuU0j8C2?usp=sharing)
+[Link to download data](https://drive.google.com/file/d/112rfxmjg9DRP9ZEdgNbWDPhPr1IVT3pz/view?usp=sharing)
 
 :arrow_up:[Contents](README.md#Contents)
 
@@ -92,15 +73,10 @@ Data consists of 2 parts:
 
 
 ## Results
-
-MAPE score:  12.01936
-
-[Link to submission file](https://github.com/DSminer/First_Projects/blob/main/Booking_reviews_competition/submission.csv)           
-[Link to LeaderBoard](https://www.kaggle.com/competitions/sf-booking/leaderboard)        
-
-
-[Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
-[Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/First_Projects/blob/main/Booking_reviews_competition/Booking_reviews_competition%28NBviewer%29.ipynb)<br>     
+      
+[Jupyter notebook on GitHub](https://github.com/DSminer/First_Projects/blob/main/Classification_of_bank_clients/Classification_of_bank_clients.ipynb)<br>  Best results was get with optuna optimization of hyperparameters in Random Forest Classifier:<br>
+accuracy on train data: 92.8%<br>
+accuracy on test data: 82.5%
 
 :arrow_up:[Contents](README.md#Contents)
 
