@@ -1,4 +1,4 @@
-![Start](Data/Rocket1.jpeg "Rocket")
+![Start](Data/Rocket2.png "Rocket")
 # First Projects
 
 
