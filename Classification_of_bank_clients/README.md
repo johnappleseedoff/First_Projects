@@ -1,4 +1,4 @@
-![Booking!](Data/Bank.jpg "Bank")
+![Bank!](Data/Bank.jpg "Bank")
 
 #  Classification of bank clients by probability of opening a deposit
 
