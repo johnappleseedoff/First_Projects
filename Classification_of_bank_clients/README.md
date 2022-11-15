@@ -1,4 +1,4 @@
-![Booking!](Data/slide2.jpg "Booking")
+![Booking!](Data/Bank.jpg "Bank")
 
 #  Booking reviews competition on Kaggle
 
