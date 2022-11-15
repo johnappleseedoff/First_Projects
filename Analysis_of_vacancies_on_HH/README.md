@@ -14,8 +14,8 @@
 ### Project description   
 Part of applicants do not indicate the desired salary when preparing their resume. This is a problem for the HeadHunter recommendatory system, which selects a list of the most suitable vacancies for applicants, and a list of most suitable professionals for employers. HeadHunter company wants to train a model, which would automatically determine the approximate wage level, suitable for applicant, using the information, which he indicated about himself. 
 
-[Link to Jupyter notebook on GitHub](https://github.com/DSminer/First_Projects/tree/main/Analysis_of_vacancies_on_HeadHunter/Analysis_of_vacancies_on_HeadHunter.ipynb)<br>
-[Link to Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/First_Projects/blob/main/Analysis_of_vacancies_on_HeadHunter/NBviewer_Analysis_of_vacancies_HH.ipynb)<br>
+[Link to Jupyter notebook on GitHub](https://github.com/DSminer/First_Projects/tree/main/Analysis_of_vacancies_on_HH/Analysis_of_vacancies_on_HH.ipynb)<br>
+[Link to Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/First_Projects/blob/main/Analysis_of_vacancies_on_HH/NBviewer_Analysis_of_vacancies_HH.ipynb)<br>
 
 :arrow_up:[Contents](README.md#Contents)
 
@@ -72,8 +72,8 @@ Dataset with resumes was downloaded from finding jobs website [hh.ru](https://hh
 
 
 ### Results:  
-[Link to Jupyter notebook on GitHub](https://github.com/DSminer/First_Projects/tree/main/Analysis_of_vacancies_on_HeadHunter/Analysis_of_vacancies_on_HeadHunter.ipynb)<br>
-[Link to Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/First_Projects/blob/main/Analysis_of_vacancies_on_HeadHunter/NBviewer_Analysis_of_vacancies_HH.ipynb)<br>
+[Link to Jupyter notebook on GitHub](https://github.com/DSminer/First_Projects/tree/main/Analysis_of_vacancies_on_HH/Analysis_of_vacancies_on_HH.ipynb)<br>
+[Link to Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/First_Projects/blob/main/Analysis_of_vacancies_on_HH/NBviewer_Analysis_of_vacancies_HH.ipynb)<br>
 
 :arrow_up:[Contents](README.md#Contents)
 
