@@ -1,4 +1,4 @@
-# SFDS_hometasks
+# First Projects
 
 From the [SkillFactory Data Science course](https://skillfactory.ru/data-science).
 
