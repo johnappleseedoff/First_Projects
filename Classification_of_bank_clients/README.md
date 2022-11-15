@@ -18,7 +18,7 @@ Banks store vast amounts of information about their customers. This data can be 
 Usually, selected customers are contacted directly through various communication channels: in person (for example, when visiting a bank), by phone, by e-mail, in instant messengers, and so on. This type of marketing is called direct marketing. In fact, direct marketing is used to interact with customers in most banks and insurance companies. But, of course, running marketing campaigns and interacting with customers is labor intensive and expensive.<br>
 Banks would like to be able to choose among their customers exactly those who are most likely to take advantage of a particular offer, and contact them.
 
-[Jupyter notebook on GitHub](https://github/DSminer/First_Projects/blob/main/Classification_of_bank_clients/Classification_of_bank_clients.ipynb)<br>             
+[Jupyter notebook on GitHub](https://github.com/DSminer/First_Projects/blob/main/Classification_of_bank_clients/Classification_of_bank_clients.ipynb)<br>             
 
 :arrow_up:[Contents](README.md#Contents)
 
