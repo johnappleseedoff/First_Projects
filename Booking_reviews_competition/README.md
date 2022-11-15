@@ -1,5 +1,5 @@
 ![Booking!](Data/slide2.jpg "Booking")
-#  Project 2
+
 #  Booking reviews competition on Kaggle
 
 ## Contents 
@@ -14,20 +14,20 @@
 
 ## Project description
 
-Continue education on SkillFactory platform.
+Imagine, that you work as datascientist in Booking Company. 
+The issue is that dishonest hotels boost their scores.
+One of the methods to find such hotels is to construct a model, which would predict a score of hotel.
+If predicted scores would much differ from scores on platform, it would probably mean that the score has been boosted and it must be checked.
 
 [Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
-[Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition%28NBviewer%29.ipynb)<br>             
+[Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/First_Projects/blob/main/Booking_reviews_competition/Booking_reviews_competition%28NBviewer%29.ipynb)<br>             
 
 :arrow_up:[Contents](README.md#Contents)
 
 
 ## Case to solve
 
-Imagine, that you work as datascientist in Booking Company. 
-The issue is that dishonest hotels boost their scores.
-One of the methods to find such hotels is to construct a model, which would predict a score of hotel.
-If predicted scores would much differ from scores on platform, it would probably mean that the score has been boosted and it must be checked.
+Provide Exploratory Data Analysis and train model
 
 :arrow_up:[Contents](README.md#Contents)
 
@@ -95,12 +95,12 @@ Data consists of 2 parts:
 
 MAPE score:  12.01936
 
-[Link to submission file](https://github.com/DSminer/SFDS_hometasks/blob/main/Project_2/submission.csv)           
+[Link to submission file](https://github.com/DSminer/First_Projects/blob/main/Booking_reviews_competition/submission.csv)           
 [Link to LeaderBoard](https://www.kaggle.com/competitions/sf-booking/leaderboard)        
 
 
 [Link to competition on Kaggle](https://www.kaggle.com/competitions/sf-booking/overview)<br>
-[Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/SFDS_hometasks/blob/main/Project_2/Booking_reviews_competition%28NBviewer%29.ipynb)<br>     
+[Jupyter notebook on NBviewer](https://nbviewer.org/github/DSminer/First_Projects/blob/main/Booking_reviews_competition/Booking_reviews_competition%28NBviewer%29.ipynb)<br>     
 
 :arrow_up:[Contents](README.md#Contents)
 
