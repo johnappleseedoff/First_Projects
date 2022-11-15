@@ -24,7 +24,7 @@ Part of applicants do not indicate the desired salary when preparing their resum
 It is necessary to transform, analyze and clean data in the dataset for model training.
 
 
-### Conditions of the competition and criteria for assessment 
+### Conditions and criteria for assessment 
 **Conditions**
 - Look closely at the details of the task.
 - Download already known dataset and notebook template.
