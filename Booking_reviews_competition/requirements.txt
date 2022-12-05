@@ -206,7 +206,7 @@ pdfminer.six==20220524
 pexpect==4.8.0
 phik==0.12.2
 pickleshare==0.7.5
-Pillow==9.2.0
+Pillow==9.3.0
 platformdirs==2.5.2
 plotly @ file:///tmp/abs_7afcdfad-dbbb-49d2-adea-186abf525c45jbnd8p95/croots/recipe/plotly_1658160053621/work
 pluggy==1.0.0
