@@ -32,7 +32,7 @@ Brotli==1.0.9
 brotlipy==0.7.0
 catalogue==2.0.8
 category-encoders==2.5.0
-certifi==2022.9.24
+certifi==2022.12.7
 cffi @ file:///tmp/abs_98z5h56wf8/croots/recipe/cffi_1659598650955/work
 chardet @ file:///tmp/build/80754af9/chardet_1607706775000/work
 charset-normalizer==2.1.1
