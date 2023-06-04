@@ -26,8 +26,8 @@ If predicted scores would much differ from scores on platform, it would probably
 
 ## Case to solve
 
-**Business task:** to help company to determine false hotels scores<br>
-**Technical challenge:** to create model, which will predict hotel score by available features
+**Business task:** help company to determine dishonest hotels and make platform more effective<br>
+**Technical challenge:** build a machine learning model that will predict hotel score by proposed features
 
 :arrow_up:[Contents](README.md#Contents)
 
